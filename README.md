@@ -73,7 +73,7 @@ I enjoy building projects, learning new technologies, and improving my problem-s
 
 💼 **LinkedIn:** [Let's connect](www.linkedin.com/in/hetvi-vora-15992940a)
 
-💻 **GitHub:** [@YOUR_USERNAME](https://github.com/HetviCodes)
+💻 **GitHub:** [@HetviCodes](https://github.com/HetviCodes)
 
 ---
 
