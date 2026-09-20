@@ -64,7 +64,7 @@ I enjoy building projects, learning new technologies, and improving my problem-s
 * 🤖 Understanding AI & Machine Learning
 * 🌐 Learning backend development
 * 🌍 Contributing to open-source
-*🚀 Becoming a better developer, one project at a time
+* 🚀 Becoming a better developer, one project at a time
 ---
 
 
